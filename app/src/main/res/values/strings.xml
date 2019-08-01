@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD-Project</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="btnAddReminder">Add Reminder</string>
+</resources>
