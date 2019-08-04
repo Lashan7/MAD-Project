@@ -6,4 +6,6 @@
     <string name="date">Date</string>
     <string name="time">Time</string>
     <string name="btnAddReminder">Add Reminder</string>
+    <!-- strings.xml -->
+    <string name="add_reminde">Add Reminder</string>
 </resources>

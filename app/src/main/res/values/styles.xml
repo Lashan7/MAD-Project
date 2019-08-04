@@ -8,4 +8,21 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--
+  Font family: Open Sans
+  Line height: 41sp
+-->
+    <!-- styles.xml -->
+    <style name="add_reminde">
+
+        <item name="android:textSize">
+            30sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
 </resources>
